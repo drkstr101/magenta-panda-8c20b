@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Watheia Foundation
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Watheia Foundation is a research group and technology incubator committed
+      to open access computing, active in the field of natural languages and
+      Open AI / GPT-3.
     actions:
       - label: Learn More
         url: /features
