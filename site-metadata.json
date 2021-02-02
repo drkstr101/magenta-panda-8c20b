@@ -28,7 +28,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "/signup",
+                "url": "/l",
                 "style": "primary"
             }
         ]
