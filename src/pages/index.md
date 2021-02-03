@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Watheia Foundation
+    title: Watheia Labs
     content: >
       Watheia Foundation is a research group and technology incubator committed
       to open access computing, active in the field of natural languages and

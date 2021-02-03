@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/favicon-32x32.png",
+        "logo_img": "images/android-chrome-192x192.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
