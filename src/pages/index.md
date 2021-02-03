@@ -17,11 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: >-
-      Watheia Unique Software SolutionsThe Watheia Labs technology incubator is
-      how we gain hands-on experience with bleeding-edge technology. Our lessons
-      are all derived from real-world challenges faced in the adoption of new
-      technology.
+    title: Watheia Unique Software Solutions
     subtitle: ''
     features:
       - title: The Best Feature of Your Services
