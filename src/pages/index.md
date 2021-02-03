@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features Unique Software Solutions
+    title: Watheia Unique Software Solutions
     subtitle: ''
     features:
       - title: The Best Feature of Your Services
