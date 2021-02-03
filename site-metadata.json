@@ -57,11 +57,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Privacy Policy",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
                         "label": "Contact",
                         "url": "/contact",
                         "style": "link"
