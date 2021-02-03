@@ -37,10 +37,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo-w-dark_150dpi.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Watheia Labs is a software development and IT consulting firm based in South-East Washington State.\n"
             },
             {
                 "type": "footer_nav",
