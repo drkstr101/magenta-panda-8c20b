@@ -26,10 +26,15 @@ sections:
       - title: The Best Feature of Your Services
         image: images/logo-w-dark_150dpi.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The cloud has become synonymous with ease of doing business,
+          especially an information technology- based business. Even companies
+          that deal with traditional services and products are increasingly
+          moving their online tasks to the cloud so that their internal
+          resources are freed up to concentrate on offline tasks. For core
+          technical firms, the widespread adoption of the cloud has provided
+          complete server solutions so that their services are never in danger
+          of being interrupted.interrupted.
         actions:
           - label: Learn More
             url: /features
