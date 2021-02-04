@@ -34,7 +34,7 @@ sections:
           resources are freed up to concentrate on offline tasks. For core
           technical firms, the widespread adoption of the cloud has provided
           complete server solutions so that their services are never in danger
-          of being interrupted.interrupted.
+          of being interrupted.interrupinterrupted.
         actions:
           - label: Learn More
             url: /features
