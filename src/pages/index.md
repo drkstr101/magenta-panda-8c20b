@@ -24,7 +24,7 @@ sections:
       challenges faced in the adoption of new technology.
     features:
       - title: Private Cloud Services Build at any Scale Start today for free
-        image: images/logo-w-dark_150dpi.png
+        image: images/7_thumb.jpg
         image_alt: App preview on a phone and tablet
         content: >
           The cloud has become synonymous with ease of doing business,
