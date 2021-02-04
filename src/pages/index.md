@@ -23,7 +23,7 @@ sections:
       with bleeding-edge technology. Our lessons are all derived from real-world
       challenges faced in the adoption of new technology.
     features:
-      - title: Private Cloud Services
+      - title: Private Cloud Services Build at any Scale Start today for free
         image: images/logo-w-dark_150dpi.png
         image_alt: App preview on a phone and tablet
         content: >
