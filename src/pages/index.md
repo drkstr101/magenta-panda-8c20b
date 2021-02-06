@@ -7,8 +7,11 @@ sections:
     image_alt: App preview
     title: Watheia Labs
     content: >
-      Watheia Labs, LLC is a technology incubator and research group active in
-      the field of AI and Data Science.  
+      ## Domain Driven Ideas
+
+
+      Watheia is committed to being your partner in digital transformation and
+      technology modernization efforts.
     actions:
       - label: Learn More
         url: /features
