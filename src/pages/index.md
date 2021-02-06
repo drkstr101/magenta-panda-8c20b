@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Watheia Labs
     content: >
-      ## Domain Driven Ideas
+      ***Domain Driven Ideas***
 
 
       Watheia is committed to being your partner in digital transformation and
