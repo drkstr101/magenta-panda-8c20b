@@ -80,12 +80,14 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     reviews:
-      - author: Eric Widget
+      - author: 'Roberto Lo Giacco, AgileWare Co-Founder'
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          After many years an awesome developer has finally decided to step up
+          and share the burden of bringing this plugin to its next stages:
+          thanks Aaron R. Miller for your contributions, but above all, thanks
+          for your enthusiasm and for reinvigorating the project!
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
