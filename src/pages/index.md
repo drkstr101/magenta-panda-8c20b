@@ -19,7 +19,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'Unique Software Solutions,'
+    title: Unique Software Solutions
     subtitle: >-
       The Watheia Labs technology incubator is how we gain hands-on experience
       with bleeding-edge technology. Our lessons are all derived from real-world
