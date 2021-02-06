@@ -7,9 +7,8 @@ sections:
     image_alt: App preview
     title: Watheia Labs
     content: >
-      Watheia Foundation is a research group and technology incubator committed
-      to open access computing, active in the field of natural languages and
-      Open AI / GPT-3.
+      Watheia Labs, LLC is a technology incubator and research group active in
+      the field of AI and Data Science.  
     actions:
       - label: Learn More
         url: /features
