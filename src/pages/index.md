@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Excellence in Engineering
+      - title: Excellence in Engineering and Desing
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
