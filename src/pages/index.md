@@ -61,10 +61,10 @@ sections:
       - title: Excellence in Engineering and Desing
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Our foundation is rooted in engineering and software development with
+          over 12 years of experience consulting for big-name clients such as
+          Google, Amazon Corporate, Expedia Group, and more.
         actions:
           - label: Learn More
             url: /features
