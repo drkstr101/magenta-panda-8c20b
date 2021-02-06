@@ -114,7 +114,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Watheia Labs
   description: The preview of the Azimuth theme
   robots:
     - index
