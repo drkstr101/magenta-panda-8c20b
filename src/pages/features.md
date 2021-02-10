@@ -1,5 +1,5 @@
 ---
-title: 'WATHEIA LABS LEAN APPROACH '
+title: WATHEIA LABS LEAN APPROACH MODEL
 sections:
   - section_id: features
     type: section_content
