@@ -1,5 +1,5 @@
 ---
-title: 'WATHEIA '
+title: WATHEIA LABS
 sections:
   - section_id: features
     type: section_content
