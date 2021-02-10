@@ -1,5 +1,5 @@
 ---
-title: WATHEIA LABS LEAN APPROACH MODELING
+title: WATHEIA LABS LEAN APPROACH MOdDELING
 sections:
   - section_id: features
     type: section_content
