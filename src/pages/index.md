@@ -44,6 +44,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - title: Hitting a roadblock with new tech?
         image: images/feature2.png
         image_alt: App users welcoming a new member
