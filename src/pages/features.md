@@ -1,5 +1,5 @@
 ---
-title: 'WATHEIA LABS '
+title: 'WATHEIA LABS LEAN '
 sections:
   - section_id: features
     type: section_content
