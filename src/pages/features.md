@@ -1,5 +1,5 @@
 ---
-title: 'WATHEIBS  '
+title: WATHEI
 sections:
   - section_id: features
     type: section_content
