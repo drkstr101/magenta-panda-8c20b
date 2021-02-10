@@ -1,5 +1,5 @@
 ---
-title: Features
+title: FeaturesWA
 sections:
   - section_id: features
     type: section_content
