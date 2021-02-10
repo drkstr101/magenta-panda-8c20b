@@ -128,6 +128,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+        new_window: true
   - section_id: recent-posts
     type: section_posts
     background: gray
