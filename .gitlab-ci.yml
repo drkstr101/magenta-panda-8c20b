@@ -45,7 +45,7 @@ image: alpine:latest
 
 variables:
   # KUBE_INGRESS_BASE_DOMAIN is the application deployment domain and should be set as a variable at the group or project level.
-  KUBE_INGRESS_BASE_DOMAIN: k8s.watheia.org
+  KUBE_INGRESS_BASE_DOMAIN: watheia.org
 
   POSTGRES_USER: user
   POSTGRES_PASSWORD: testing-password
