@@ -80,8 +80,6 @@ include:
   - local: .gitlab/Jobs/Code-Quality.gitlab-ci.yml
   - local: .gitlab/Jobs/Code-Intelligence.gitlab-ci.yml
   - local: .gitlab/Jobs/Deploy.gitlab-ci.yml
-  - local: .gitlab/Jobs/Deploy/ECS.gitlab-ci.yml
-  - local: .gitlab/Jobs/Deploy/EC2.gitlab-ci.yml
   - local: .gitlab/Jobs/DAST-Default-Branch-Deploy.gitlab-ci.yml
   - local: .gitlab/Jobs/Browser-Performance-Testing.gitlab-ci.yml
   - local: .gitlab/Security/DAST.gitlab-ci.yml
