@@ -5,12 +5,10 @@ ADD . .
 RUN npm install && npm run build
 
 FROM node:12-alpine
-RUN apk update; apk upgrade;
-ENV APP_HOME /home/app
-
-# Copy resources
-WORKDIR $APP_HOME
-COPY --from=builder /home/builder/public/ $APP_HOME/
 
 EXPOSE 5000
-CMD ["npx", "serve", "-s", "$APP_HOME"]
+
+# Copy resources
+COPY --from=builder /home/builder/public /app
+
+CMD ["npx", "serve", "-s", "/app"]

@@ -1,5 +1,9 @@
 # ✨ magenta-panda ✨
 
+[![pipeline status](https://gitlab.com/watheia/magenta-panda-8c20b/badges/master/pipeline.svg)](https://gitlab.com/watheia/magenta-panda-8c20b/-/commits/master)
+
+[![coverage report](https://gitlab.com/watheia/magenta-panda-8c20b/badges/master/coverage.svg)](https://gitlab.com/watheia/magenta-panda-8c20b/-/commits/master)
+
 <img src="https://themes.stackbit.com/images/azimuth-demo-1024x768.png" width="600">
 
 This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
@@ -7,30 +11,48 @@ This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wi
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-azimuth&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
 <details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-libris&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A documentation theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-diy&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A &quot;do it yourself&quot; Stackbit theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
-                </ul>
+    <summary>🎨 &nbsp;<strong>Look</strong></summary>
+    <ul>
+        <li><a
+                href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-libris&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A
+                documentation theme</a></li>
+        <li><a
+                href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-diy&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A
+                &quot;do it yourself&quot; Stackbit theme</a></li>
+        <li><a
+                href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An
+                e-commerce theme powered by Snipcart</a></li>
+    </ul>
 </details>
 
 <details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=sanity&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Sanity</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
-                </ul>
+    <summary>✏️ &nbsp;<strong>CMS</strong></summary>
+    <ul>
+        <li><a
+                href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato
+                CMS</a></li>
+        <li><a
+                href="https://app.stackbit.com/create?cms=sanity&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Sanity</a>
+        </li>
+        <li><a
+                href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a>
+        </li>
+    </ul>
 </details>
 
 <details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=hugo&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Hugo</a></li>
-                <li><a href="https://app.stackbit.com/create?ssg=jekyll&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Jekyll</a></li>
-                </ul>
+    <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
+    <ul>
+        <li><a
+                href="https://app.stackbit.com/create?ssg=nextjs&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Next.js</a>
+        </li>
+        <li><a
+                href="https://app.stackbit.com/create?ssg=hugo&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Hugo</a>
+        </li>
+        <li><a
+                href="https://app.stackbit.com/create?ssg=jekyll&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Jekyll</a>
+        </li>
+    </ul>
 </details>
 
 ## Develop Locally
@@ -40,8 +62,6 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 1. Install npm dependencies:
 
         npm install
-
-
 
 1. Start the Gatsby local development server:
 
@@ -57,7 +77,7 @@ To start editing your site, you can edit the included Markdown files.
 
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
+[![project-readme-lead-video](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
 Here's a few resources to get you started:
 
