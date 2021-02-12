@@ -34,7 +34,7 @@ sections:
       with bleeding-edge technology. Our lessons are all derived from real-world
       challenges faced in the adoption of new technology.
     features:
-      - title: Private Cloud Services Build at any Scale Start today for free
+      - title: Cloud-Native DevOps at any Scale
         image: images/7_thumb.jpg
         image_alt: App preview on a phone and tablet
         content: >
