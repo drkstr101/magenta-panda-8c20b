@@ -5,6 +5,8 @@
 review:
   extends: .auto-deploy
   stage: review
+  before_script:
+    - echo "http://$CI_PROJECT_ID-$CI_ENVIRONMENT_SLUG.$KUBE_INGRESS_BASE_DOMAIN" > environment_url.txt
   script:
     - auto-deploy check_kube_domain
     - auto-deploy download_chart
