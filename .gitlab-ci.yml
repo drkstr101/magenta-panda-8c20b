@@ -56,14 +56,14 @@ variables:
 
   ROLLOUT_RESOURCE_TYPE: deployment
 
-  DOCKER_TLS_CERTDIR: ""  # https://gitlab.com/gitlab-org/gitlab-runner/issues/4501
+  DOCKER_TLS_CERTDIR: "" # https://gitlab.com/gitlab-org/gitlab-runner/issues/4501
 
   TEST_DISABLED: 1
 
 stages:
   - build
   - test
-  - deploy  # dummy stage to follow the template guidelines
+  - deploy # dummy stage to follow the template guidelines
   - review
   - dast
   - staging
@@ -87,6 +87,6 @@ include:
   - local: .gitlab/Security/DAST.gitlab-ci.yml
   - local: .gitlab/Security/Container-Scanning.gitlab-ci.yml
   - local: .gitlab/Security/Dependency-Scanning.gitlab-ci.yml
-  - local: .gitlab/Security/License-Scanning.gitlab-ci.yml
+  # - local: .gitlab/Security/License-Scanning.gitlab-ci.yml
   - local: .gitlab/Security/SAST.gitlab-ci.yml
   - local: .gitlab/Security/Secret-Detection.gitlab-ci.yml
